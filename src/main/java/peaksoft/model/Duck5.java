@@ -18,7 +18,5 @@ public class Duck5 {
         return ", в утке яйцо " + egg.toString();
     }
 
-    public String toSring(){
-        return "ddhdhdhd";
-    }
+
 }
